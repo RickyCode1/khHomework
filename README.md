@@ -1,2 +1,2 @@
 # khHomework
-###Repo to store homework files. 
+###Repository to store homework files. 
